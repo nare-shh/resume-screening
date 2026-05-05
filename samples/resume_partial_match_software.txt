@@ -1,0 +1,54 @@
+ARJUN KRISHNAMURTHY
+Software Engineer (Backend) | Chennai, India
+Email: arjun.k@email.com | GitHub: github.com/arjunk
+
+─────────────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────────────
+Backend Software Engineer with 3 years of experience building
+scalable REST APIs and microservices. Comfortable with Python and
+Java. Recently started learning Machine Learning through online
+courses. Looking to transition into a Data Science role.
+
+─────────────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────────────
+B.Tech in Information Technology — Anna University | 2021 | GPA: 8.1/10
+
+─────────────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────────────
+Languages       : Python, Java, JavaScript, SQL
+Backend         : Spring Boot, FastAPI, Node.js, REST APIs, GraphQL
+Databases       : PostgreSQL, MySQL, MongoDB, Redis
+DevOps          : Docker, Jenkins, Git, Linux, Nginx
+Cloud           : AWS (EC2, S3, Lambda, RDS)
+ML (Learning)   : Pandas, NumPy, Scikit-learn (beginner), Matplotlib
+
+─────────────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────────────
+Backend Engineer | Zoho Corporation | Chennai | Aug 2021 – Present
+- Developed REST APIs for Zoho CRM using Java Spring Boot serving 5M+ requests/day
+- Designed microservices architecture reducing deployment time by 40%
+- Optimized SQL queries reducing average response time from 800ms to 120ms
+- Built CI/CD pipelines using Jenkins for automated testing and deployment
+- Worked with Docker + Kubernetes for containerized deployments on AWS
+
+─────────────────────────────────────────────────────────────────
+PROJECTS (Personal Learning)
+─────────────────────────────────────────────────────────────────
+House Price Prediction (Kaggle)
+- Linear Regression and Random Forest model using Scikit-learn
+- Achieved top 35% on Kaggle leaderboard
+
+Sentiment Analysis (Personal Project)
+- Basic text classification using TF-IDF + Logistic Regression
+- Trained on IMDB movie reviews dataset (82% accuracy)
+
+─────────────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────────────
+- AWS Certified Solutions Architect – Associate
+- Machine Learning by Andrew Ng (Coursera) — Completed 2023
+- Python for Data Science — DataCamp

@@ -1,0 +1,80 @@
+PRIYA SHARMA
+Data Scientist | Bangalore, India
+Email: priya.sharma@email.com | LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma
+
+─────────────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────────────
+Results-driven Data Scientist with 4 years of experience building
+and deploying machine learning models at scale. Specialized in NLP,
+recommendation systems, and MLOps. Passionate about turning raw data
+into actionable insights that drive business decisions.
+
+─────────────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────────────
+M.Sc. in Data Science — IIT Bombay | 2020 | GPA: 8.9/10
+B.Tech in Computer Science — NIT Trichy | 2018 | GPA: 8.5/10
+
+─────────────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────────────
+Languages       : Python, SQL, R, Bash
+ML / DL         : Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+NLP             : Hugging Face Transformers, BERT, spaCy, NLTK, Sentence Transformers
+MLOps           : MLflow, Docker, Kubernetes, Apache Airflow, CI/CD with Jenkins
+Cloud           : AWS (S3, SageMaker, EC2), Google Cloud Platform (BigQuery, Vertex AI)
+Data Tools      : Pandas, NumPy, Spark, Hadoop, Kafka
+Visualization   : Tableau, Power BI, Matplotlib, Seaborn, Plotly
+Databases       : PostgreSQL, MongoDB, Redis
+
+─────────────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────────────
+Senior Data Scientist | Flipkart | Bangalore | Jan 2022 – Present
+- Built a product recommendation engine using collaborative filtering + deep learning,
+  increasing CTR by 18% and revenue contribution by 12%
+- Developed an NLP-based review summarization system using BERT fine-tuning
+  on 50M+ customer reviews (ROUGE score improved by 22%)
+- Designed and deployed real-time fraud detection pipeline using XGBoost +
+  Apache Kafka, reducing fraudulent transactions by 34%
+- Set up MLflow experiment tracking for 8 team members, cutting model
+  reproducibility issues by 80%
+- Managed end-to-end model deployment on AWS SageMaker with auto-scaling
+
+Data Scientist | Mu Sigma | Bangalore | Aug 2020 – Dec 2021
+- Built churn prediction model (Random Forest + SHAP explanations) for a
+  telecom client — reduced churn by 9% over 6 months
+- Conducted A/B testing framework for pricing experiments, improving
+  conversion rates by 11%
+- Created automated EDA pipelines using Python + Pandas reducing reporting
+  time from 3 days to 4 hours
+- Presented insights and model results to C-level stakeholders regularly
+
+─────────────────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────────────────
+Resume Screening AI (Personal)
+- Built a dual-model resume screener using TF-IDF + Random Forest and BERT
+  sentence transformers with MLflow tracking and Streamlit UI
+
+Stock Price Forecasting
+- LSTM + Transformer hybrid model for NSE stock price prediction (MAE: 2.3%)
+
+Fake News Detection
+- BERT fine-tuned classifier achieving 94.7% accuracy on LIAR dataset
+
+─────────────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────────────
+- AWS Certified Machine Learning – Specialty (2023)
+- Google Professional Data Engineer (2022)
+- Deep Learning Specialization – deeplearning.ai (Coursera)
+- MLflow Fundamentals – Databricks Academy
+
+─────────────────────────────────────────────────────────────────
+ACHIEVEMENTS
+─────────────────────────────────────────────────────────────────
+- Winner, Flipkart Hackathon 2023 (AI/ML Track)
+- Published paper: "Efficient Resume Screening using Hybrid NLP Models" – ICML 2023
+- Kaggle Expert (top 5% in 3 NLP competitions)

@@ -1,0 +1,69 @@
+JOB TITLE: Senior Data Scientist
+COMPANY: TechCorp Analytics Pvt. Ltd.
+LOCATION: Bangalore, India (Hybrid — 3 days office)
+EXPERIENCE: 3–6 years
+SALARY: ₹25–40 LPA
+
+─────────────────────────────────────────────────────────────────
+ABOUT THE ROLE
+─────────────────────────────────────────────────────────────────
+We are looking for a talented Senior Data Scientist to join our
+rapidly growing AI/ML team. You will design, build, and deploy
+machine learning models that directly impact product decisions
+for 10 million+ users. You will work closely with product
+managers, engineers, and business stakeholders to solve complex
+data problems end-to-end.
+
+─────────────────────────────────────────────────────────────────
+KEY RESPONSIBILITIES
+─────────────────────────────────────────────────────────────────
+- Build and deploy production-grade ML models for recommendation,
+  ranking, fraud detection, and personalization use cases
+- Work with large-scale datasets (terabytes) using Spark and SQL
+- Own the full ML lifecycle: ideation → experimentation → deployment → monitoring
+- Set up and maintain MLflow experiment tracking and model registry
+- Conduct rigorous A/B tests and statistical analyses to validate model impact
+- Collaborate with MLOps and data engineering teams for scalable pipelines
+- Mentor junior data scientists and review code
+
+─────────────────────────────────────────────────────────────────
+REQUIRED SKILLS & QUALIFICATIONS
+─────────────────────────────────────────────────────────────────
+Must Have:
+- 3+ years of experience in a Data Science or ML role
+- Strong Python programming (Pandas, NumPy, Scikit-learn)
+- Hands-on experience with Deep Learning frameworks (TensorFlow or PyTorch)
+- NLP experience: text classification, embeddings, transformers (BERT, GPT)
+- SQL proficiency for complex data queries
+- Experience with MLflow or similar experiment tracking tools
+- Cloud experience: AWS or GCP (SageMaker, BigQuery, S3)
+- Familiarity with Docker and CI/CD pipelines
+
+Good to Have:
+- Apache Spark / Hadoop for big data processing
+- Kafka for real-time streaming ML pipelines
+- Kubernetes for model serving
+- Published research papers or Kaggle competition experience
+
+─────────────────────────────────────────────────────────────────
+EDUCATIONAL QUALIFICATION
+─────────────────────────────────────────────────────────────────
+- B.Tech / M.Tech / M.Sc in Computer Science, Statistics,
+  Mathematics, or related field from a reputed institution
+- IIT / NIT / BITS graduates preferred
+
+─────────────────────────────────────────────────────────────────
+WHAT WE OFFER
+─────────────────────────────────────────────────────────────────
+- Competitive salary (₹25–40 LPA based on experience)
+- ESOPs for senior roles
+- Flexible hybrid work policy
+- Learning budget of ₹1L per year
+- Health insurance for self + family
+- Work on India-scale ML problems
+
+─────────────────────────────────────────────────────────────────
+TO APPLY
+─────────────────────────────────────────────────────────────────
+Send your resume to: careers@techcorpanalytics.com
+Subject: Senior Data Scientist Application – [Your Name]
