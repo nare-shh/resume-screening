@@ -117,7 +117,7 @@ def main():
     parser.add_argument("--samples", type=int, default=N_SAMPLES, help="Number of training samples")
     args = parser.parse_args()
 
-    print("\n" + "🚀 "*15)
+    print("\n" + "=" * 50)
     print("  RESUME SCREENING - ML TRAINING PIPELINE")
     print("🚀 "*15)
 
