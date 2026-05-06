@@ -26,7 +26,7 @@ from models.model1_tfidf_rf import TFIDFRandomForestScreener
 from models.model2_bert import BERTSimilarityScreener
 
 
-# ─── Config ───────────────────────────────────────────────────────────────────
+# ─── Configg ───────────────────────────────────────────────────────────────────
 
 MLFLOW_TRACKING_URI = "mlruns"          # local folder (can change to remote URI)
 DATA_PATH = "data/resume_dataset.csv"
